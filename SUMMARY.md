@@ -4,7 +4,7 @@
   * [What is OTF?](what-is-otf.md)
   * [Handbook usage](handbook-usage.md)
   * [Quicklinks](quicklinks.md)
-  * [Contributing to this handbook](contributing-to-this-handbook.md)
+  * [Contributing to this handbook](contributing.md)
   * [Acknowledgements](acknowledgements.md)
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
