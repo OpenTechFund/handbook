@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-  * What is OTF?
-  * Handbook usage
-  * Quicklinks
+  * [What is OTF?](what-is-otf.md)
+  * [Handbook usage](handbook-usage.md)
+  * [Quicklinks](quicklinks.md)
   * [Acknowledgements](acknowledgements.md)
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
@@ -47,6 +47,4 @@
   * Social media guidelines
   * Quarterly AMA's
 * [Other resources](other-guides.md)
-
-
 
