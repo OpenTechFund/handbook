@@ -19,14 +19,15 @@
   * Hiring
 
   * Paid time-off
-  * Employment
 
-* Incentives
-* [On-boarding](working-together/onboarding.md)
-* Benefits
-* [Off-boarding](working-together/offboarding.md)
-* Spending OTF money
-* Travel
+  * Employment
+  * Incentives
+
+  * [On-boarding](working-together/onboarding.md)
+  * [Off-boarding](working-together/offboarding.md)
+  * Benefits
+  * Spending OTF money
+  * Travel
 
 * [Other guides](other-guides.md)
 
