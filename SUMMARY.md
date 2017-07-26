@@ -19,6 +19,7 @@
   * [Communication](working-together/communication.md)
   * Conflict resolution
   * Anti-harassment policy
+  * [Intellectual property](intellectual-property.md)
 * Looking after people
   * Professional development
   * Team well-being fund
@@ -46,5 +47,6 @@
   * Social media guidelines
   * Quarterly AMA's
 * [Other resources](other-guides.md)
-* [Intellectual property](intellectual-property.md)
+
+
 
