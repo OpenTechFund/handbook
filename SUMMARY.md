@@ -28,10 +28,12 @@
   * Benefits
   * Spending OTF money
   * Travel
-* [Other guides](other-guides.md)
+  * Working remotely
+  * Signing legal documents
+  * Tools and tips
+  * Security
+* [Other resources](other-guides.md)
 * Intellectual property
-
-
 
 
 
