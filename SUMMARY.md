@@ -4,7 +4,7 @@
   * [What is OTF?](what-is-otf.md)
   * [Handbook usage](handbook-usage.md)
   * [Quicklinks](quicklinks.md)
-  * Contributing to this guide
+  * [Contributing to this handbook](contributing-to-this-handbook.md)
   * [Acknowledgements](acknowledgements.md)
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
@@ -48,6 +48,4 @@
   * Social media guidelines
   * Quarterly AMA's
 * [Other resources](other-guides.md)
-
-
 
