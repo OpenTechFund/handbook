@@ -20,4 +20,6 @@
 * Travel
 * Offboarding
 * People ops
+* Anti-harassment policy 
+* Conflict resolution
 
