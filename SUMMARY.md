@@ -9,6 +9,15 @@
 * [Working together](working-together.md)
 * Quicklinks
 * Employment
-* Team onboarding
+* Onboarding
 * [Other guides](other-guides.md)
+* Values
+* Assumptions
+* Intellectual property
+* Handbook guidelines
+* Hiring
+* Spending OTF money
+* Travel
+* Offboarding
+* People ops
 
