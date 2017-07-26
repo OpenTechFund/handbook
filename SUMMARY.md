@@ -6,8 +6,8 @@
   * Quicklinks
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
-  * [Mission & Vision](mission-and-vision.md)
-  * [Guiding Principles](guiding-principles.md)
+  * [Mission & vision](mission-and-vision.md)
+  * [Guiding principles](guiding-principles.md)
   * Values
   * Assumptions
   * [Governance](governance.md)
@@ -46,6 +46,4 @@
   * Quarterly AMA's
 * [Other resources](other-guides.md)
 * [Intellectual property](intellectual-property.md)
-
-
 
