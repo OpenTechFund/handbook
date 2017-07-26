@@ -4,6 +4,7 @@
   * What is OTF?
   * Handbook usage
   * Quicklinks
+  * Acknowledgements
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
   * [Mission & vision](mission-and-vision.md)
@@ -12,10 +13,10 @@
   * Assumptions
   * [Governance](governance.md)
 * [Working together](working-together.md)
-  * Strategy
-  * Planning
-  * Coordination
-  * Communication
+  * [Strategy](working-together/strategy.md)
+  * [Planning](working-together/planning.md)
+  * [Coordination](working-together/coordination.md)
+  * [Communication](working-together/communication.md)
   * Conflict resolution
   * Anti-harassment policy
 * Looking after people
@@ -46,4 +47,6 @@
   * Quarterly AMA's
 * [Other resources](other-guides.md)
 * [Intellectual property](intellectual-property.md)
+
+
 

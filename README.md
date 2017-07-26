@@ -1,4 +1,4 @@
-# The start of something to come
+# OTF Team Handbook
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is very much a work in progress, far from complete, and never finished. This is for OTF team members as a replacement for the various google docs living all over the place and for the communities that OTF engages in to learn how we work so they can better work with us and teach us what they know about working better. 
 
