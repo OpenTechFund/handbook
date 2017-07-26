@@ -42,5 +42,9 @@
 * [Other resources](other-guides.md)
 * [Intellectual property](intellectual-property.md)
 
+* External communications
+  * Blog / Articles
+  * Social media guidelines
+
 
 
