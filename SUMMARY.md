@@ -18,7 +18,7 @@
   * Communication
   * Conflict resolution
   * Anti-harassment policy
-* Looking after us
+* Looking after people
 
   * Professional development
   * Team well-being fund
@@ -39,6 +39,7 @@
   * [Off-boarding](working-together/offboarding.md)
 
   * Spending OTF money
+
   * Travel
   * Working remotely
   * Signing legal documents
@@ -46,6 +47,7 @@
   * Security
 
 * [Other resources](other-guides.md)
+
 * [Intellectual property](intellectual-property.md)
 
 
