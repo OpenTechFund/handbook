@@ -16,9 +16,11 @@
   * Communication
 * People ops
 
-* Hiring
-* Paid time-off
-* Employment
+  * Hiring
+
+  * Paid time-off
+  * Employment
+
 * Incentives
 * [On-boarding](working-together/onboarding.md)
 * Benefits
@@ -27,6 +29,7 @@
 * Travel
 
 * [Other guides](other-guides.md)
+
 * Intellectual property
 
 
