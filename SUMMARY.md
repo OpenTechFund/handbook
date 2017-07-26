@@ -7,4 +7,8 @@
   * [Guiding Principles](guiding-principles.md)
   * [Governance](governance.md)
 * [Working together](working-together.md)
+* Quicklinks
+* Employment
+* Team onboarding
+* [Other guides](other-guides.md)
 
