@@ -10,9 +10,12 @@
   * Assumptions
   * [Governance](governance.md)
 * [Working together](working-together.md)
-  * Anti-harassment policy 
-  * Conflict resolution
-  * Hiring
+  * Strategy
+  * Planning
+  * Coordination
+  * Communication
+* People ops
+* * * Hiring
   * Employment
   * [On-boarding](working-together/onboarding.md)
   * [Off-boarding](working-together/offboarding.md)
