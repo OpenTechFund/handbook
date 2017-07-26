@@ -1,25 +1,29 @@
 # Summary
 
 * [Introduction](README.md)
+  * Handbook guidelines
+  * Quicklinks
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
   * [Mission & Vision](mission-and-vision.md)
   * [Guiding Principles](guiding-principles.md)
+  * Values
+  * Assumptions
   * [Governance](governance.md)
 * [Working together](working-together.md)
-* Quicklinks
-* Employment
-* Onboarding
+  * Anti-harassment policy 
+  * Conflict resolution
+  * Hiring
+  * Employment
+  * Onboarding
+  * Offboarding
+  * Travel
+  * Spending OTF money
 * [Other guides](other-guides.md)
-* Values
-* Assumptions
+
 * Intellectual property
-* Handbook guidelines
-* Hiring
-* Spending OTF money
-* Travel
-* Offboarding
+
 * People ops
-* Anti-harassment policy 
-* Conflict resolution
+
+
 
