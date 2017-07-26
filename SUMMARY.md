@@ -39,12 +39,13 @@
   * Signing legal documents
   * Tools and tips
   * Security
-* [Other resources](other-guides.md)
-* [Intellectual property](intellectual-property.md)
-
 * External communications
+  * OTF Voice
   * Blog / Articles
   * Social media guidelines
+  * Quarterly AMA's
+* [Other resources](other-guides.md)
+* [Intellectual property](intellectual-property.md)
 
 
 
