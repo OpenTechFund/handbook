@@ -9,7 +9,7 @@
   * [Our history](our-history.md)
   * [Mission & vision](mission-and-vision.md)
   * [Guiding principles](guiding-principles.md)
-  * Values
+  * [Values](values.md)
   * Assumptions
   * [Governance](governance.md)
 * [Working together](working-together.md)
