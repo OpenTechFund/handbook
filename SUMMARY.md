@@ -1,3 +1,8 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Who we are](chapter1.md)
+  * [Our history](our-history.md)
+
+
+
