@@ -22,7 +22,7 @@
   * Hiring
   * Paid time-off
   * Employment
-  * Incentives
+
   * [On-boarding](working-together/onboarding.md)
   * [Off-boarding](working-together/offboarding.md)
   * Benefits
@@ -33,7 +33,14 @@
   * Tools and tips
   * Security
 * [Other resources](other-guides.md)
-* Intellectual property
+* [Intellectual property](intellectual-property.md)
+* Looking after people
+  * Professional development
+  * Team well-being fund
+  * Incentives
+  * Retreats
+  * Stewarding
+  * Well working group
 
 
 
