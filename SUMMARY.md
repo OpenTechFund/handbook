@@ -4,7 +4,7 @@
   * What is OTF?
   * Handbook usage
   * Quicklinks
-  * Acknowledgements
+  * [Acknowledgements](acknowledgements.md)
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
   * [Mission & vision](mission-and-vision.md)
@@ -47,6 +47,4 @@
   * Quarterly AMA's
 * [Other resources](other-guides.md)
 * [Intellectual property](intellectual-property.md)
-
-
 
