@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-  * Handbook guidelines
+  * What is OTF?
+* * Handbook guidelines
   * Quicklinks
 * [Who we are](chapter1.md)
   * [Our history](our-history.md)
@@ -20,9 +21,7 @@
   * Travel
   * Spending OTF money
 * [Other guides](other-guides.md)
-
 * Intellectual property
-
 * People ops
 
 
